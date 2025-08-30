@@ -1,4 +1,4 @@
-oad  h# Next.js Authentication Project
+# Next.js Authentication Project
 
 A modern authentication system built with Next.js, featuring user signup, signin, and a chat interface.
 
