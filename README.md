@@ -1,10 +1,9 @@
 # Next.js Authentication Project
 
-A modern authentication system built with Next.js, featuring user signup, signin, and a chat interface.
+A modern authentication system built with Next.js, featuring  a chat interface.
 
 ## Features
 
-- 🔐 User authentication (signup/signin)
 - 💬 Real-time chat functionality
 - 🌙 Dark/Light theme switching
 - 📱 Responsive design
@@ -14,7 +13,6 @@ A modern authentication system built with Next.js, featuring user signup, signin
 
 - **Frontend**: Next.js 14, React, TypeScript
 - **Styling**: Tailwind CSS
-- **Authentication**: Custom API routes
 - **State Management**: React Context
 
 ## Getting Started
@@ -49,7 +47,6 @@ npm run dev
 ```
 src/
 ├── app/
-│   ├── api/auth/          # Authentication API routes
 │   ├── Component/         # Reusable components
 │   ├── Context/           # React context providers
 │   ├── chatbox/           # Chat interface
